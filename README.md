@@ -1,0 +1,1 @@
+# rPi-3-Model-B-plus-make-it-bootable-from-external-SSD
